@@ -1,6 +1,7 @@
 # UNIBEN IT — Blockchain Learning: Assignment Submission Guide
  
-Welcome! This repo is where members of the UNIBEN IT Blockchain Learning group submit their assignments. Follow the steps below to submit yours.
+Welcome! This repo is where members of the UNIBEN IT Blockchain Learning group submit their Week 1 assignments. 
+Follow the steps below to submit yours.
  
 ## How to Submit
  
