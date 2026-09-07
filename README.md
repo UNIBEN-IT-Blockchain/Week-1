@@ -87,5 +87,5 @@ Copy the template below into your `submissions/<your-github-username>.md` file a
  
 If you get stuck on Git/GitHub steps (forking, cloning, branches, PRs), reach out in the group chat before the deadline.
  
-Good luck! 🚀
+Good luck! 
  
